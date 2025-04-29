@@ -4,5 +4,11 @@
     "title": "Android Compose Comprehensive Testing Research",
     "description": "The landscape of modern Android application development is characterized by increasing complexity, driven by richer user experiences and more intricate functionalities. In this environment, the role of robust testing has become paramount in ensuring software quality and reliability.",
     "thumbnail": "android_compose_comprehensive_testing_research_img.jpg"
+  },
+  {
+    "id": "getting_started_with_hilt",
+    "title": "Dependency Injection Made Easy: Getting Started with Hilt",
+    "description": "Let's talk about something fundamental that can make our lives a whole lot easier: Dependency Injection (DI). If you've ever felt like you're juggling too many objects and their dependencies in your Android projects, DI is your friend. And when it comes to DI on Android, Hilt is quickly becoming the go-to solution.",
+    "thumbnail": "getting_started_with_hilt_img.jpg"
   }
 ]
