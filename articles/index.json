@@ -1,9 +1,15 @@
 [
   {
-    "id": "android_compose_comprehensive_testing_research",
-    "title": "Android Compose Comprehensive Testing Research",
-    "description": "The landscape of modern Android application development is characterized by increasing complexity, driven by richer user experiences and more intricate functionalities. In this environment, the role of robust testing has become paramount in ensuring software quality and reliability.",
-    "thumbnail": "android_compose_comprehensive_testing_research_img.jpg"
+    "id": "understanding_android_compose",
+    "title": "Understanding Android Compose",
+    "description": "Let's dive deep into the awesome world of Jetpack Compose Layouts and Modifiers. If you're just starting out or want to understand the magic behind building beautiful, performant UIs on Android with Compose, you're in the right place! Think of me as your friendly guide through the Compose forest.",
+    "thumbnail": "understanding_android_compose_img.jpg"
+  },
+  {
+    "id": "debugging_jetpack_compose",
+    "title": "Debugging Jetpack Compose: Less Magic, More Method (Explained with Analogies)",
+    "description": "Jetpack Compose lets us build beautiful Android UIs with Kotlin, often feeling like magic! But when things go wrong, debugging can seem daunting. Fear not! Much like solving everyday problems, debugging Compose follows a logical process, aided by some fantastic tools.",
+    "thumbnail": "debugging_jetpack_compose_img.jpg"
   },
   {
     "id": "getting_started_with_hilt",
@@ -12,9 +18,9 @@
     "thumbnail": "getting_started_with_hilt_img.jpg"
   },
   {
-    "id": "understanding_android_compose",
-    "title": "Understanding Android Compose",
-    "description": "Let's dive deep into the awesome world of Jetpack Compose Layouts and Modifiers. If you're just starting out or want to understand the magic behind building beautiful, performant UIs on Android with Compose, you're in the right place! Think of me as your friendly guide through the Compose forest.",
-    "thumbnail": "understanding_android_compose_img.jpg"
+    "id": "android_compose_comprehensive_testing_research",
+    "title": "Android Compose Comprehensive Testing Research",
+    "description": "The landscape of modern Android application development is characterized by increasing complexity, driven by richer user experiences and more intricate functionalities. In this environment, the role of robust testing has become paramount in ensuring software quality and reliability.",
+    "thumbnail": "android_compose_comprehensive_testing_research_img.jpg"
   }
 ]
