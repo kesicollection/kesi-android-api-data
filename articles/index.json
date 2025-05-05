@@ -1,5 +1,11 @@
 [
   {
+    "id": "gracias_x_ayudar",
+    "title": "Gracias por su ayuda",
+    "description": "¡Gracias por su ayuda! Durante los próximos 14 días, publicaré contenido solo para nosotros. La idea es hacer más ameno el rato cuando abran la app",
+    "thumbnail": "gracias_x_ayudar.jpg"
+  },
+  {
     "id": "understanding_android_compose",
     "title": "Understanding Android Compose",
     "description": "Let's dive deep into the awesome world of Jetpack Compose Layouts and Modifiers. If you're just starting out or want to understand the magic behind building beautiful, performant UIs on Android with Compose, you're in the right place! Think of me as your friendly guide through the Compose forest.",
