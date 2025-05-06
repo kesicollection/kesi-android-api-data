@@ -6,6 +6,12 @@
     "thumbnail": "gracias_x_ayudar.jpg"
   },
   {
+    "id": "anecdota_parte1",
+    "title": "Anécdota con ustedes: Parte 1",
+    "description": "Se me ocurrió que una buena idea para estos posts es contar anécdotas que hemos tenido juntos. De seguro, cuando leas una, ¡vas a saber que se trata de ti! Y si no, pues ya te enteraste de una anécdota con alguien del grupo.",
+    "thumbnail": "anecdota_parte1_img.jpg"
+  },
+  {
     "id": "understanding_android_compose",
     "title": "Understanding Android Compose",
     "description": "Let's dive deep into the awesome world of Jetpack Compose Layouts and Modifiers. If you're just starting out or want to understand the magic behind building beautiful, performant UIs on Android with Compose, you're in the right place! Think of me as your friendly guide through the Compose forest.",
