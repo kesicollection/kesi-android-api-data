@@ -1,41 +1,5 @@
 [
   {
-    "id": "gracias_x_ayudar",
-    "title": "Gracias por su ayuda",
-    "description": "¡Gracias por su ayuda! Durante los próximos 14 días, publicaré contenido solo para nosotros. La idea es hacer más ameno el rato cuando abran la app",
-    "thumbnail": "gracias_x_ayudar.jpg"
-  },
-  {
-    "id": "anecdota_parte1",
-    "title": "Anécdota con ustedes: Parte 1",
-    "description": "Se me ocurrió que una buena idea para estos posts es contar anécdotas que hemos tenido juntos. De seguro, cuando leas una, ¡vas a saber que se trata de ti! Y si no, pues ya te enteraste de una anécdota con alguien del grupo.",
-    "thumbnail": "anecdota_parte1_img.jpg"
-  },
-  {
-    "id": "anecdota_parte2",
-    "title": "Anécdota con ustedes: Parte 2",
-    "description": "Ok, el día de hoy le va a tocar a una persona que tiene experiencia en la nieve y, sobre todo, manejando.",
-    "thumbnail": "anecdota_parte2_img.jpg"
-  },
-  {
-    "id": "anecdota_parte3",
-    "title": "Anécdota con ustedes: Parte 3",
-    "description": "El día de hoy toca una persona con la que las anécdotas son incontables a estas alturas de la vida.",
-    "thumbnail": "anecdota_parte3_img.jpg"
-  },
-  {
-    "id": "anecdota_parte4",
-    "title": "Anécdota con ustedes: Parte 4",
-    "description": "En esta anécdota nos iremos a un lugar lleno de naturaleza, un lugar donde solemos celebrar Navidad, Año Nuevo, posadas, cumpleaños y hasta feliz no cumpleaños, o sea, por cualquier cosa nos juntamos ahí. ¡El Rancho!",
-    "thumbnail": "anecdota_parte4_img.jpg"
-  },
-  {
-    "id": "anecdota_parte5",
-    "title": "Anécdota con ustedes: Parte 5",
-    "description": "En la historia del día de hoy voy a hablar de cómo algunas decisiones te cambian la vida radicalmente. Esta es la historia de una de esas decisiones que no solo me cambió la vida a mí, le cambió la vida a dos individuos más (por lo menos directamente).",
-    "thumbnail": "anecdota_parte5_img.jpg"
-  },
-  {
     "id": "understanding_android_compose",
     "title": "Understanding Android Compose",
     "description": "Let's dive deep into the awesome world of Jetpack Compose Layouts and Modifiers. If you're just starting out or want to understand the magic behind building beautiful, performant UIs on Android with Compose, you're in the right place! Think of me as your friendly guide through the Compose forest.",
@@ -52,11 +16,5 @@
     "title": "Dependency Injection Made Easy: Getting Started with Hilt",
     "description": "Let's talk about something fundamental that can make our lives a whole lot easier: Dependency Injection (DI). If you've ever felt like you're juggling too many objects and their dependencies in your Android projects, DI is your friend. And when it comes to DI on Android, Hilt is quickly becoming the go-to solution.",
     "thumbnail": "getting_started_with_hilt_img.jpg"
-  },
-  {
-    "id": "android_compose_comprehensive_testing_research",
-    "title": "Android Compose Comprehensive Testing Research",
-    "description": "The landscape of modern Android application development is characterized by increasing complexity, driven by richer user experiences and more intricate functionalities. In this environment, the role of robust testing has become paramount in ensuring software quality and reliability.",
-    "thumbnail": "android_compose_comprehensive_testing_research_img.jpg"
   }
 ]
