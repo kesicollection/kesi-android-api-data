@@ -1,0 +1,127 @@
+{
+  "featured": [
+    {
+      "id": "featured_1",
+      "img": "getting_started_with_hilt_img.jpg",
+      "type": "article",
+      "title": "Featured Item 1 Title",
+      "description": "Description for featured item 1."
+    },
+    {
+      "id": "featured_2",
+      "img": "understanding_android_compose_img.jpg",
+      "type": "video",
+      "title": "Featured Item 2 Title",
+      "description": "Description for featured item 2."
+    },
+    {
+      "id": "featured_3",
+      "img": "debugging_jetpack_compose_img.jpg",
+      "type": "podcast",
+      "title": "Featured Item 3 Title",
+      "description": "Description for featured item 3."
+    },
+    {
+      "id": "featured_4",
+      "img": "getting_started_with_hilt_img.jpg",
+      "type": "article",
+      "title": "Featured Item 4 Title",
+      "description": "Description for featured item 4."
+    },
+    {
+      "id": "featured_5",
+      "img": "understanding_android_compose_img.jpg",
+      "type": "video",
+      "title": "Featured Item 5 Title",
+      "description": "Description for featured item 5."
+    }
+  ],
+  "promotedContent": [
+    {
+      "category": {
+        "id": "category_A",
+        "name": "Category A Name"
+      },
+      "promotedContent": [
+        {
+          "id": "promo_A_1",
+          "img": "debugging_jetpack_compose_img.jpg",
+          "type": "article",
+          "title": "Promoted Item A1 Title",
+          "description": "Description for promoted item A1."
+        },
+        {
+          "id": "promo_A_2",
+          "img": "getting_started_with_hilt_img.jpg",
+          "type": "video",
+          "title": "Promoted Item A2 Title",
+          "description": "Description for promoted item A2."
+        },
+        {
+          "id": "promo_A_3",
+          "img": "understanding_android_compose_img.jpg",
+          "type": "podcast",
+          "title": "Promoted Item A3 Title",
+          "description": "Description for promoted item A3."
+        },
+        {
+          "id": "promo_A_4",
+          "img": "debugging_jetpack_compose_img.jpg",
+          "type": "article",
+          "title": "Promoted Item A4 Title",
+          "description": "Description for promoted item A4."
+        },
+        {
+          "id": "promo_A_5",
+          "img": "getting_started_with_hilt_img.jpg",
+          "type": "video",
+          "title": "Promoted Item A5 Title",
+          "description": "Description for promoted item A5."
+        }
+      ]
+    },
+    {
+      "category": {
+        "id": "category_B",
+        "name": "Category B Name"
+      },
+      "promotedContent": [
+        {
+          "id": "promo_B_1",
+          "img": "understanding_android_compose_img.jpg",
+          "type": "article",
+          "title": "Promoted Item B1 Title",
+          "description": "Description for promoted item B1."
+        },
+        {
+          "id": "promo_B_2",
+          "img": "debugging_jetpack_compose_img.jpg",
+          "type": "video",
+          "title": "Promoted Item B2 Title",
+          "description": "Description for promoted item B2."
+        },
+        {
+          "id": "promo_B_3",
+          "img": "getting_started_with_hilt_img.jpg",
+          "type": "podcast",
+          "title": "Promoted Item B3 Title",
+          "description": "Description for promoted item B3."
+        },
+        {
+          "id": "promo_B_4",
+          "img": "understanding_android_compose_img.jpg",
+          "type": "article",
+          "title": "Promoted Item B4 Title",
+          "description": "Description for promoted item B4."
+        },
+        {
+          "id": "promo_B_5",
+          "img": "debugging_jetpack_compose_img.jpg",
+          "type": "video",
+          "title": "Promoted Item B5 Title",
+          "description": "Description for promoted item B5."
+        }
+      ]
+    }
+  ]
+}
