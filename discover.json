@@ -15,7 +15,7 @@
       "description": "Description for featured item 2."
     },
     {
-      "id": "featured_3",
+      "id": "test_1",
       "img": "debugging_jetpack_compose_img.jpg",
       "type": "Podcast",
       "title": "Featured Item 3 Title",
@@ -58,7 +58,7 @@
           "description": "Description for promoted item A2."
         },
         {
-          "id": "promo_A_3",
+          "id": "test_1",
           "img": "understanding_android_compose_img.jpg",
           "type": "Podcast",
           "title": "Promoted Item A3 Title",
@@ -101,7 +101,7 @@
           "description": "Description for promoted item B2."
         },
         {
-          "id": "promo_B_3",
+          "id": "test_1",
           "img": "getting_started_with_hilt_img.jpg",
           "type": "Podcast",
           "title": "Promoted Item B3 Title",
