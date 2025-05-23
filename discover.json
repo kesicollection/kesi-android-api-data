@@ -1,7 +1,7 @@
 {
   "featured": [
     {
-      "id": "featured_1",
+      "id": "getting_started_with_hilt",
       "img": "getting_started_with_hilt_img.jpg",
       "type": "Article",
       "title": "Featured Item 1 Title",
@@ -22,7 +22,7 @@
       "description": "Description for featured item 3."
     },
     {
-      "id": "featured_4",
+      "id": "getting_started_with_hilt",
       "img": "getting_started_with_hilt_img.jpg",
       "type": "Article",
       "title": "Featured Item 4 Title",
@@ -44,7 +44,7 @@
       },
       "promotedContent": [
         {
-          "id": "promo_A_1",
+          "id": "getting_started_with_hilt",
           "img": "debugging_jetpack_compose_img.jpg",
           "type": "Article",
           "title": "Promoted Item A1 Title",
@@ -65,7 +65,7 @@
           "description": "Description for promoted item A3."
         },
         {
-          "id": "promo_A_4",
+          "id": "getting_started_with_hilt",
           "img": "debugging_jetpack_compose_img.jpg",
           "type": "Article",
           "title": "Promoted Item A4 Title",
@@ -87,7 +87,7 @@
       },
       "promotedContent": [
         {
-          "id": "promo_B_1",
+          "id": "getting_started_with_hilt",
           "img": "understanding_android_compose_img.jpg",
           "type": "Article",
           "title": "Promoted Item B1 Title",
@@ -108,7 +108,7 @@
           "description": "Description for promoted item B3."
         },
         {
-          "id": "promo_B_4",
+          "id": "getting_started_with_hilt",
           "img": "understanding_android_compose_img.jpg",
           "type": "Article",
           "title": "Promoted Item B4 Title",
