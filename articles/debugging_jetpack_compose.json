@@ -101,7 +101,7 @@
   "podcast": {
     "id": "Debugging Jetpack Compose",
     "title": "Debugging Jetpack Compose: Understanding performance",
-    "url": "Debugging Jetpack Compose.wav",
-    "image": ""
+    "audio": "Debugging Jetpack Compose.wav",
+    "img": ""
   }
 }

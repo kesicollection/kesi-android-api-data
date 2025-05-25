@@ -140,7 +140,7 @@
   "podcast": {
     "id": "test_1",
     "title": "Hilt for Android_ Mastering Dependency Injection Without the Headache",
-    "url": "test_1.wav",
+    "audio": "test_1.wav",
     "img": "debugging_jetpack_compose_img.jpg"
   }
 }

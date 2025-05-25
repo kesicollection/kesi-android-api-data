@@ -251,7 +251,7 @@
   "podcast": {
     "id": "Understanding Android Compose_ Architecture and Implementation",
     "title": "Understanding Android Compose: Architecture and Implementation",
-    "url": "Understanding Android Compose_ Architecture and Implementation.wav",
+    "audio": "Understanding Android Compose_ Architecture and Implementation.wav",
     "image": ""
   }
 }
