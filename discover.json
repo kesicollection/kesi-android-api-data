@@ -87,13 +87,6 @@
       },
       "promotedContent": [
         {
-          "id": "getting_started_with_hilt",
-          "img": "understanding_android_compose_img.jpg",
-          "type": "Article",
-          "title": "Promoted Item B1 Title",
-          "description": "Description for promoted item B1."
-        },
-        {
           "id": "promo_B_2",
           "img": "debugging_jetpack_compose_img.jpg",
           "type": "Video",
