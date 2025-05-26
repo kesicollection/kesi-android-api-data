@@ -1,20 +1,8 @@
 [
   {
-    "id": "understanding_android_compose",
-    "title": "Understanding Android Compose",
-    "description": "Let's dive deep into the awesome world of Jetpack Compose Layouts and Modifiers. If you're just starting out or want to understand the magic behind building beautiful, performant UIs on Android with Compose, you're in the right place! Think of me as your friendly guide through the Compose forest.",
-    "thumbnail": "understanding_android_compose_img.jpg"
-  },
-  {
-    "id": "debugging_jetpack_compose",
-    "title": "Debugging Jetpack Compose: Less Magic, More Method (Explained with Analogies)",
-    "description": "Jetpack Compose lets us build beautiful Android UIs with Kotlin, often feeling like magic! But when things go wrong, debugging can seem daunting. Fear not! Much like solving everyday problems, debugging Compose follows a logical process, aided by some fantastic tools.",
-    "thumbnail": "debugging_jetpack_compose_img.jpg"
-  },
-  {
-    "id": "getting_started_with_hilt",
-    "title": "Dependency Injection Made Easy: Getting Started with Hilt",
-    "description": "Let's talk about something fundamental that can make our lives a whole lot easier: Dependency Injection (DI). If you've ever felt like you're juggling too many objects and their dependencies in your Android projects, DI is your friend. And when it comes to DI on Android, Hilt is quickly becoming the go-to solution.",
-    "thumbnail": "getting_started_with_hilt_img.jpg"
+    "id": "deep-dive-unveiling-kesi-android",
+    "title": "Deep Dive: Unveiling Kesi Android",
+    "description": "Welcome to the very first deep dive on this blog! Today, we're not just skimming the surface. We're jumping headfirst into the intricate world of Android development by dissecting a complete application",
+    "thumbnail": "deep-dive-unveiling-kesi-android_img.jpg"
   }
 ]
